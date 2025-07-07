@@ -74,3 +74,15 @@ Efficient design reduces abandonment rates during checkout by minimizing steps a
 It enhances overall user satisfaction and loyalty, which is crucial for repeat business and referrals.
 
 A poorly designed system can frustrate users, causing them to leave the platform and use competitors instead. Prioritizing UI/UX is key to the success of the AirBnB Clone project.
+## Color Styles:
+
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+## Typography:
+
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
